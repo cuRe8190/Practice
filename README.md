@@ -15,6 +15,7 @@
 </head>
 <body>
     <p>VSCode에서 사용하는 Git!!</p>
+    <p>README.md 파일로 터미널에서 수정해보자 (new!!)</p>
 </body>
 </html>
 ```
